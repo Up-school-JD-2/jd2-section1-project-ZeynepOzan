@@ -63,7 +63,7 @@ public class MovieManager implements IMovie {
 		}
 
 		if (result == false) {
-			System.out.println(movieName + " adli film bulunamadı.");
+			System.out.println(movieName + " adlı film bulunamadı.");
 		}
 
 	}
